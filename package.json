@@ -1,0 +1,23 @@
+{
+  "name": "slopad",
+  "version": "1.0.0",
+  "description": "The AI-powered, subscription-first, enterprise-grade text editor nobody asked for.",
+  "homepage": "https://github.com/SaaranshDx/slopad#readme",
+  "bugs": {
+    "url": "https://github.com/SaaranshDx/slopad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaaranshDx/slopad.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^40.7.0"
+  }
+}
